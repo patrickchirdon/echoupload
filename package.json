@@ -1,14 +1,15 @@
 {
   "name": "ebook-publishers",
   "version": "1.0.0",
-  "engines": {
-    "node": "6.11.1"
-  }
+  
   "description": "ebook for publishers",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
+  "engines": {
+    "node": "6.11.1"
+  }
   "author": "",
   "license": "ISC",
   "devDependencies": {
