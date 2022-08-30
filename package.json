@@ -1,6 +1,9 @@
 {
   "name": "ebook-publishers",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.11.1"
+  }
   "description": "ebook for publishers",
   "main": "app.js",
   "scripts": {
